@@ -1,0 +1,75 @@
+{
+  "version": "1.1.2",
+  "update": {
+    "version": "1.1",
+    "message": "优化播放体验"
+  },
+  "search_hint": "搜索音乐/歌手/专辑",
+  "review" : 0,
+  "limited": "10",
+  "vipbg": "https://coldstone1900.github.io/topmusic/bg.jpg",
+  "vip": {
+    "title": "升级专业版后，您将享有以下权利：",
+    "title_vip": "您享有以下权利：",
+    "items": [
+      {
+        "icon": "tm_pro_music.png",
+        "title": "聆听所有音乐",
+        "subtitle": "在线聆听超过10000首的高音质音乐"
+      },
+      {
+        "icon": "tm_pro_download.png",
+        "title": "下载音乐",
+        "subtitle": "缓存音乐到本地，随时随地离线聆听"
+      }
+    ],
+    "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
+  },
+  "hot_banners": [
+    {
+      "musicHref": "3326707631",
+      "musicName": "爱乐之都 Ι 不负热爱，实力闪耀",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/21/39/1648917266260_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3326469472",
+      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/47/16/1648917436070_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3322005864",
+      "musicName": "王牌对王牌第七季 Ι 一起体验多彩人生",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/23/21/1647045428315_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3325360911",
+      "musicName": "网络情歌 | 为何痴心的人不配有真爱",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/79/79/1648293338617_.jpg",
+      "type": "2"
+    }
+  ],
+  "daily_config": {
+    "title": "每日推荐",
+    "items": [
+      {
+        "title": "发现好歌",
+        "image": "https://img1.kuwo.cn/star/userpl2015/32/54/1635932836211_504169632_700.jpg",
+        "id": "-1",
+        "url": "http://mobi.kuwo.cn/mobiweb.s?apiv=3&uid=2305777290&vip_member=1&source=kwplayer_ip_10.0.2.0_TJ.ipa&type=rcm_discover&tab=1&num=40&loginUid=0&prod=kwplayer_ip_10.0.2.0&notrace=0&f=web&kweexVersion=1.1.3"
+      },
+      {
+        "title": "新热好歌",
+        "image": "https://img1.kuwo.cn/star/userpl2015/62/91/1620054932023_362976562_700.jpg",
+        "id": "1082685104",
+        "url": "http://mobi.kuwo.cn/mobiweb.s?apiv=3&uid=2305777290&vip_member=1&source=kwplayer_ip_10.0.2.0_TJ.ipa&type=rcm_discover&tab=2&num=40&loginUid=0&prod=kwplayer_ip_10.0.2.0&notrace=0&f=web&kweexVersion=1.1.3"
+      }
+    ]
+  }
+}
