@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.5",
   "update": {
     "version": "1.1",
     "message": "优化播放体验"
@@ -26,6 +26,13 @@
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "hot_banners": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.coldstone.film",
+      "musicName": "每日精彩影视推荐",
+      "musicArtist": "",
+      "imageUrl": "https://coldstone1900.github.io/jrys/ad_film.png",
+      "type": "4"
+    },
     {
       "musicHref": "3326707631",
       "musicName": "爱乐之都 Ι 不负热爱，实力闪耀",
